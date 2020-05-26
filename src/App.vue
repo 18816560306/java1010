@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <h2>哈哈哈哈哈哈哈10101</h2>
+    <h2>中华人民共和国标万岁</h2>
     <img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1588591484587&di=5162c1e45106f0fe8c91a1d9f6d06620&imgtype=0&src=http%3A%2F%2Fnews.cnr.cn%2Fgjxw%2Fgnews%2F20150804%2FW020150804491000393116.jpg"><br/>
     <p>
       唐纳德·特朗普（Donald Trump，1946年6月14日- ），出生于美国纽约，美国共和党籍政治家、企业家、房地产商人、电视人，第45任美国总统。
